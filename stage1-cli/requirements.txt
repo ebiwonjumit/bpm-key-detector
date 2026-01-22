@@ -1,0 +1,17 @@
+# Core audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Microphone input
+sounddevice>=0.4.6
+pyaudio>=0.2.13
+
+# CLI interface
+rich>=13.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
