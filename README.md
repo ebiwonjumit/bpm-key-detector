@@ -214,65 +214,11 @@ pytest tests/  # 106 tests, >80% coverage
 
 ---
 
-## 🔮 Future Enhancements
 
-- [ ] Tempo change detection
-- [ ] Time signature detection
-- [ ] Chord detection
-- [ ] Batch processing (GUI)
-- [ ] Waveform visualization
-- [ ] Export results to file
-- [ ] Windows/Linux GUI
-- [ ] Mobile apps (iOS/Android)
-
----
-
-## 🤝 Contributing
-
-This is a complete reference implementation. Feel free to:
-- Use as learning material
-- Fork and customize
-- Report bugs or suggest features
-- Share with others
-
----
 
 ## 📄 License
 
 MIT License - Free to use, modify, and distribute
-
----
-
-## 🎓 Learning Resources
-
-Built using:
-- **Python**: librosa, sounddevice, pytest
-- **Swift**: SwiftUI, Combine
-- **C++**: JUCE Framework, DSP algorithms
-- **Audio**: FFT, autocorrelation, chromagram
-- **Music Theory**: Tempo, keys, Krumhansl-Schmuckler
-
----
-
-## ⭐ Highlights
-
-- 🏆 **Complete**: All 3 stages implemented
-- ✅ **Tested**: 106 unit tests, real-world validation
-- 📖 **Documented**: Comprehensive guides and docs
-- 🎨 **Professional**: Clean UI/UX design
-- ⚡ **Performant**: Optimized for each platform
-- 🔧 **Maintainable**: Clean, modular code
-
----
-
-## 🎉 Success!
-
-**Three complete implementations** of BPM and key detection:
-1. ✅ Python CLI for batch processing
-2. ✅ macOS GUI for desktop use
-3. ✅ DAW Plugin for production
-
-**Ready to use, customize, or learn from!**
 
 ---
 
